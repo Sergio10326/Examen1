@@ -1,3 +1,6 @@
+# Examen COD Sergio de la Iglesia Lorenzo
+
+
 1. Clona este repositorio: https://github.com/damiancastelao/examenDAM.git
 
 Para clonar este repositorio en git con la consola de comandos, se usa el comando "git clone -o 1ra_parte_examen https://github.com/damiancastelao/examenDAM.git", que básicamente recoge toda la información que haya en el enlace para añadirla de forma local, con lo que después se puede trabajar con ella y hacer cambios y subirlos a la nube de git.
