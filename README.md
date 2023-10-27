@@ -6,7 +6,6 @@ Para clonar este repositorio en git con la consola de comandos, se usa el comand
 
 Crear un repositorio en github, se puede hacer mediante la consola de comandos o interfaz gráfica. Mediante los comandos, primero hay que encontrarse  en la carpeta local que queremos usar de referencia y que es donde se van a almacenar los archivos. Para poder iniciar el repo, se usa "git init","git add .", etc. Tras ello, se hace el commit, git remote add, y el push. Lista de comandos:
 
-"""
 
 git add README.md
 git commit -m "Primer commit"
@@ -32,7 +31,6 @@ git push -u origin master
 sudo gedit README.md
 history
 
-"""
 
 En este caso de hecho, se añadieron todos los archivos de la carpeta en el repositorio por buscar el error que tenía, de todas formas, como se ve en el primer comando, solo hace falta añadir el README.md para este ejercicio.
 
