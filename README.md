@@ -40,21 +40,3 @@ En este caso de hecho, se añadieron todos los archivos de la carpeta en el repo
 3. Elije un programa que ya tengas hecho y copialo en este nuevo repositorio. Realiza otro commit. Explica como hiciste esto en el README.md
 
 En este ejercicio, sí que se añade la carpeta entera de la ruta local donde se está trabajando. Para ello, se ejecuta el comando "git add .", que añade todo el contenido de la ruta actual. Después, solo que habría que ejecutar el commit "git commit -m "Se añade todo el contenido del programa"" y listo.
-
-##Segunda parte
-
-1. Haz un fork al mismo repositorio del apartado 1 de la primera parte. Vuelve a repetir el apartado 3
-
-Para hacer el fork del repositorio, hay que meterse al enlace del repositorio que vamos a clonar, y en la pantalla principal, aparece la opción "Fork" en la parte superior derecha, y haremos clic sobre ella. Github nos dará la opción de modificar varios parámetros, en este caso no se modificará ninguno. Ahora, añadimos los archivos del programa de java y de este mismo README.md
-
-2. Añádele el gitignore, complétalo, justifica los ficheros añadidos al gitignore
-
-
-
-3. Crea el ejecutable .jar del programa, prueba que funcione
-
-
-
-4. Sube el .jar al repositorio remoto
-
-
